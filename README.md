@@ -1,3 +1,3 @@
-# The Mathematical Demonstration of Dubhe
+# Mathematical Demonstration in Dubhe
 
-The mathematical demonstration of Dubhe has been updated and shown in 'Dubhe_math.pdf'.
+The integrated derivation of the weight divergence is shown in 'Mathematical Demonstration.pdf'.
